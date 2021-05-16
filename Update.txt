@@ -1,4 +1,1 @@
 
-<Version: 1.3>
-/data/Map001.json https://raw.githubusercontent.com/Alexander869/UpdateForProject/main/Map001.json
-<End of Version>
